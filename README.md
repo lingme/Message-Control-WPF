@@ -96,4 +96,12 @@ public class MessageItem: INotifyPropertyChanged {
 }
 ```
 
+![A](https://github.com/lingme/Picture_Bucket/raw/master/MsgTab_Control_WPF_img/index_1.jpg)
+
+![A](https://github.com/lingme/Picture_Bucket/raw/master/MsgTab_Control_WPF_img/index_2.jpg)
+
+![A](https://github.com/lingme/Picture_Bucket/raw/master/MsgTab_Control_WPF_img/index_3.jpg)
+
+![A](https://github.com/lingme/Picture_Bucket/raw/master/MsgTab_Control_WPF_img/index_4.jpg)
+
 
